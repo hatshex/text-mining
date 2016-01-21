@@ -12,3 +12,7 @@
   - Recuperación de información
   - Modelado de tópicos
   - Aplicaciones
+
+*Bibliografía
+  - Foundations of Statistical Natural Language Processing. Christopher Manning and Hinrich Schuetze.
+  - Natural Language Processing and Text Mining. Anne Kao and Stephen R. Poteet

@@ -3,6 +3,8 @@
 ### Métodos analíticos para texto | Tarea 02 | 28 de Enero de 2016 |
 ### Alumna: Gabriela Flores Bracamontes |  Clave: 160124 |
 
+## 1.- Exploración de datos: 
+Una vez explorados los datos, se procedió a realizar la limpieza
 ```python
 import codecs
 import json
@@ -45,7 +47,9 @@ data = []
 with codecs.open('corpus_clean.json','r') as f:
     for line in f:
         data.append(json.loads(line))
-        
+```
+## 2.- Obtención de los tokens y tags utilizando diccionarios: 
+```python
 DictionaryTokens = {}
 DictionaryTags = {}
 
@@ -60,6 +64,9 @@ diccionariox = {}
 for k,v in DictionaryTokens.items():
     if not diccionariox.has_key(k) :
         diccionariox[k]= Counter(v)
+```
+## 3.- Generación de la matriz B: 
+``` python
 B= [[0L for j in range(len(DictionaryTags))]for i in range(len(DictionaryTokens))]
 DictionaryTokensSort= sorted(DictionaryTokens.keys())
 DictionaryTagsSort= sorted(DictionaryTags.keys())
@@ -72,7 +79,9 @@ for k,v in diccionariox.items():
         #print elemento,v[elemento]
 B=np.asarray(B)
 B= [i/sum(i) for i in B]
-
+``` 
+## 4.- Generación de la matriz A: 
+```python
 A= [[0L for j in range(len(DictionaryTags))]for i in range(len(DictionaryTags))]
 PI =[]
 for renglon in data: 
@@ -88,7 +97,9 @@ for renglon in data:
         #print De, A
 A=np.asarray(A)
 A= [i/sum(i) for i in A]
-
+```
+## 5.- Generación del vector PI: 
+```python
 PI =[0L for i in range(len(DictionaryTags))]
 for renglon in data: 
     document=renglon['document']

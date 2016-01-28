@@ -1,3 +1,8 @@
+# ITAM: 
+## Maestría en Ciencia de Datos, 
+### Métodos analíticos para texto | Tarea 02 | 28 de Enero de 2016 |
+### Alumna: Gabriela Flores Bracamontes |  Clave: 160124 |
+
 ```python
 import codecs
 import json

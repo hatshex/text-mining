@@ -1,0 +1,37 @@
+Genoma de la bacteria Buchnera aphidicola 
+Según explicó a Europa Press Amparo Latorre, directora de la investigación, lo más novedoso del estudio es la posibilidad de poder observar un proceso evolutivo en marcha
+El genoma secuenciado por los investigadores españoles es un genoma mínimo que puede aportar ideas al intento de construir una célula mínima 
+La investigación, que forma parte de la tesis doctoral de Vicente Pérez Brocal, muestra que la evolución del genoma ha llevado al organismo a perder genes esenciales para su relación de simbiosis con el huésped en el que se aloja, el pulgón del cedro 'Cinara cedri', y que esto puede llevarle a la extinción ya que otros organismos cohabitantes están asumiendo sus funciones  
+La relación entre el pulgón 'Cinara cedri' y la bacteria 'Buchnera aphidicola' se inició hace aproximadamente 200 millones de años
+En esta relación de simbiosis, un fenómeno biológico muy común en el que las especies se asocian para cooperar y repartir recursos, el pulgón suministra a la bacteria un ambiente estable y, a su vez, la bacteria le suministra nutrientes básicos que éste no puede tomar de su dieta, principalmente aminoácidos esenciales
+El pulgón del cedro 'Cinara cedri' contiene, además de 'Buchnera', el endosimbionte primario, un segundo tipo de bacteria simbionte del género 'Serratia'
+Comparado con otros genomas secuenciados del género Buchnera, el de 'B. aphidicola BCc' es el más pequeño en longitud y el que contiene menos genes: sólo 362, unos 200 menos que las otras 'Buchneras' y representa el conjunto más pequeño que se conoce capaz de dar soporte a la vida celular 
+"El análisis de los genes perdidos nos ha deparado muchas sorpresas, pero quizá la más relevante es que esta bacteria ya no puede sintetizar el aminoácido triptófano, por lo que ya no se lo puede suministrar al pulgón
+Es por ello que decimos que está perdiendo su papel en la simbiosis", explica Latorre 
+Los investigadores piensan que la segunda bacteria, 'Serratia' está suministrando el triptófano y posiblemente otros metabolitos perdidos en 'Buchnera' no sólo al pulgón, sino a la propia 'Buchnera'
+Los análisis evolutivos que los científicos españoles han hecho de los genes que aún se conservan indican que éstos están evolucionando muy rápidamente acumulando muchas mutaciones
+"El destino final de 'Buchnera' podría ser la extinción y el reemplazamiento por la otra bacteria", concluye Latorre
+Uno de los principales objetivos que se plantean los investigadores españoles es determinar el genoma de 'Serratia', para ver si, efectivamente esta bacteria está reemplazando a 'Buchnera' o, por el contrario también ha perdida alguna función esencial
+En este caso se trataría de un ejemplo de complementación, ya que las dos bacterias se necesitarían para sobrevivir y para cumplir su papel en la simbiosis 
+Un objetivo global del grupo de investigadores es tratar de comprender por qué cuando una bacteria de vida libre entra en otro organismo, en este caso un insecto, el resultado final es que se convierta en un parásito, con efectos claramente negativos sobre el hospedador, o en un simbionte, con un efecto beneficioso
+El caso de 'B. aphidicola BCc' es el de una simbiosis en un proceso extremo de reducción
+Los científicos se encuentran también estudiando el genoma de un simbionte que ha entrado recientemente en un insecto y que presenta un genoma aún no reducido
+Junto a la investigación de los españoles, la revista 'Science' publica otro estudio dirigido por la Universidad de Arizona en Tucson (Estados Unidos) en el que los investigadores describen la secuencia de otra de estas bacterias simbiontes que viven dentro de otros organismos: la 'Carsonella ruddii'  
+El genoma de 'Carsonella ruddii', que vive en insectos que se alimentan de savia, es de unos 160 kilobases de largo
+En el genoma de 'Carsonella', que posee muchos genes que se solapan y algo de basura de ADN, faltan muchos genes considerados esenciales para la vida. Los resultados de su análisis genómico sugieren que la bacteria 'Carsonella' podría estar perdiendo su estatus de organismo real y estar convirtiéndose en un componente más de la célula del huésped
+La investigación española ha sido llevada a cabo en el Instituto Cavanilles de Biodiversidad y Biología Evolutiva de la Universitat de València, dirigida por la profesora de genética Amparo Latorre y forma parte de la tesis doctoral de Vicente Pérez-Brocal (becario de investigación)
+El estudio ha sido codirigida por la doctora Rosario Gil (investigadora del programa Ramón y Cajal) y en él han colaborado José Manuel Michelena (profesor de entomología), Francisco J. Silva (profesor de Genética) Andrés Moya (catedrático de Genética y director del Instituto Cavanilles), Araceli Lamelas (Becaria de Investigación), Marina Postigo (técnico de investigación del Centro de Astrobiología) y Silvia Ramos (técnico de investigación del Instituto Cavanilles)
+El trabajo ha contado con el apoyo del Servicio de Secuenciación de la Universitat de Valéncia
+
+Buchnera aphidicola es una proteobacteria de la famlia Enterobacteriaceae
+Es un endosimbionte primario de los áfidos
+Se cree que Buchnera fue una vez un organismo Gram-negativo de vida libre similar a los modernos Enterobacteriaceae tales como Escherichia coli
+Buchnera tiene un diámetro de 3 micras y presenta algunas de las características de sus parientes Enterobacteriaceae tales como una pared Gram-negativa
+Sin embargo, al contrario que la mayoría de las bacterias gram-negativas, Buchnera carece de los genes que codifican los lipopolisacáridos (LPS) de su membrana exterior
+Su larga asociación con los áfidos y la limitación del cruzado cromosómico debido a una transmisión estrictamente vertical han ocasionado la pérdida de los genes requeridos para la respiración anaeróbica, la síntesis de amino-azúcares, ácidos grasos, fosfolípidos y carbohidratos complejos
+Esto ha resultado no sólo en uno de los genomas más pequeños de todos los organismos vivos conocidos, sino también en uno de los más estables genéticamente
+La asociación simbiótica con los áfidos comienza entre hace 150 y 200 millones de años y ha persitido a través de transmisión maternal y co-especializción
+Los áfidos han desarrollado células bacteriocitas que hospedan a Buchnera
+Se estima que un áfido maduro puede hospedar a 5,6 por 106 bacterias
+Buchnera ha perdido los factores reguladores lo que le permiten una continua sobrerproducción de triptófano y otros aminoácidos
+Cada bacteriocito contene múltiples vesículas, denominadas simbiosomas que derivan de la membrana citoplasmática

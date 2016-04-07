@@ -1,0 +1,543 @@
+El estudio de la genética permite comprender qué es lo que exactamente ocurre en el ciclo celular replicar nuestras células y reproducción meiosis de los seres vivos y cómo puede ser que por ejemplo entre seres humanos se transmiten características biológicas genotipo contenido del genoma específico de un individuo en forma de ADN características físicas fenotipo de apariencia y hasta de personalidad
+En 1865 un monje científico checo-alemán llamado Gregor Mendel observó que los organismos heredan caracteres de manera diferenciada 
+En 1941 Edward Lawrie Tatum y George Wells Beadle demuestran que los genes ARN-mensajero codifican proteínas luego en 1953 James D Watson y Francis Crick determinan que la estructura del ADN es una doble hélice en direcciones antiparalelas polimerizadas en dirección 5 a 3 para el año 1977 Fred Sanger Walter Gilbert y Allan Maxam secuencian ADN completo del genoma del bacteriófago y en 1990 se funda el Proyecto Genoma Humano
+La ciencia de la genética
+Aunque la genética juega un papel muy significativo en la apariencia y el comportamiento de los organismos es la combinación de la genética replicación transcripción procesamiento maduración del ARN con las experiencias del organismo la que determina el resultado final
+El ADN existe naturalmente en forma bicatenaria es decir en dos cadenas en que los nucleótidos de una cadena complementan los de la otra
+La secuencia de nucleótidos de un gen es traducida por las células para producir una cadena de aminoácidos creando proteínas el orden de los aminoácidos en una proteína corresponde con el orden de los nucleótidos del gen 
+Esto recibe el nombre de código genético 
+Las proteínas ejecutan casi todas las funciones que las células necesitan para vivir
+Subdivisiones de la genéticaeditar · editar código
+La genética se subdivide en varias ramas como
+Así mismo estudia la función de los genes desde el punto de vista molecular
+En la genética se pueden encontrar muchos rasgos familiares en común de la familia como el color de ojos el color de piel y el color del cabello
+Ingeniería genética
+Artículos principales Ingeniería genética e Ingeniería genética humana
+Mediante la ingeniería genética se pueden potenciar y eliminar cualidades de organismos en el laboratorio véase Organismo genéticamente modificado 
+Por ejemplo se pueden corregir defectos genéticos terapia génica fabricar antibióticos en las glándulas mamarias de vacas de granja o clonar animales como la oveja Dolly 
+Algunas de las formas de controlar esto es mediante transfección lisar células y usar material genético libre conjugación plásmidos y transducción uso de fagos o virus entre otras formas
+Además se puede ver la manera de regular esta expresión genética en los organismos
+Respecto a la terapia génica antes mencionada hay que decir que todavía no se ha conseguido llevar a cabo un tratamiento con éxito en humanos para curar alguna enfermedad
+Todas las investigaciones se encuentran en la fase experimental 
+Debido a que aún no se ha descubierto la forma de que la terapia funcione tal vez aplicando distintos métodos para introducir el ADN cada vez son menos los fondos dedicados a este tipo de investigaciones 
+Por otro lado este es un campo que puede generar muchos beneficios económicos ya que este tipo de terapias son muy costosas por lo que en cuanto se consiga mejorar la técnica es de suponer que las inversiones subirán
+Historia de la genética
+Artículo principal Historia de la genética
+Usualmente se considera que la historia de la Genética comienza con el trabajo del monje agustino Gregor Mendel 
+Su investigación sobre hibridación en guisantes publicada en 1866 describe lo que más tarde se conocería como las leyes de Mendel
+Pero su desarrollo vertiginoso se puede observar en la siguiente tabla cronológica
+Cronología de descubrimientos notables
+Año
+Acontecimiento
+1865	Se publica el trabajo de Gregor Mendel
+1900	Los botánicos Hugo de Vries Carl Correns y Erich von Tschermak redescubren el trabajo de Gregor Mendel
+1903	Se descubre la implicación de los cromosomas en la herencia
+1905	El biólogo británico William Bateson acuña el término Genetics en una carta a Adam Sedgwick
+1910	Thomas Hunt Morgan demuestra que los genes residen en los cromosomas Además gracias al fenómeno de recombinación genética consiguió describir la posición de diversos genes en los cromosomas
+1913	Alfred Sturtevant crea el primer mapa genético de un cromosoma
+1918	Ronald Fisher publica On the correlation between relatives on the supposition of Mendelian inheritance la síntesis moderna comienza
+1923	Los mapas genéticos demuestran la disposición lineal de los genes en los cromosomas
+1928	Se denomina mutación a cualquier cambio en la secuencia nucleotídica de un gen sea esta evidente o no en el fenotipo
+1928	Fred Griffith descubre una molécula hereditaria transmisible entre bacterias véase Experimento de Griffith
+1931	El entrecruzamiento es la causa de la recombinación
+1941	Edward Lawrie Tatum y George Wells Beadle demuestran que los genes codifican proteínas véase el dogma central de la Biología
+1944	Oswald Theodore Avery Colin McLeod y Maclyn McCarty demuestran que el ADN es el material genético denominado entonces principio transformante
+1950	Erwin Chargaff demuestra que las proporciones de cada nucleótido siguen algunas reglas por ejemplo que la cantidad de adenina A tiende a ser igual a la cantidad de timina T Barbara McClintock descubre los transposones en el maíz
+1952	El experimento de Hershey y Chase demuestra que la información genética de los fagos reside en el ADN
+1953	James D Watson y Francis Crick determinan que la estructura del ADN es una doble hélice
+1956	Jo Hin Tjio y Albert Levan establecen que en la especie humana el número de cromosomas es 46
+1958	El experimento de Meselson y Stahl demuestra que la replicación del ADN es replicación semiconservativa
+1961	El código genético está organizado en tripletes
+1964	Howard Temin demuestra empleando virus de ARN excepciones al dogma central de Watson
+1970	Se descubren las enzimas de restricción en la bacteria Haemophilius influenzae lo que permite a los científicos manipular el ADN
+1973	El estudio de linajes celulares mediante análisis clonal y el estudio de mutaciones homeóticas condujeron a la teoría de los compartimentos propuesta por Antonio García-Bellido et al Según esta teoría el organismo está constituido por compartimentos o unidades definidas por la acción de genes maestros que ejecutan decisiones que conducen a varios clones de células hacia una línea de desarrollo
+1977	Fred Sanger Walter Gilbert y Allan Maxam secuencian ADN por primera vez trabajando independientemente El laboratorio de Sanger completa la secuencia del genoma del bacteriófago F-X174
+1983	Kary Banks Mullis descubre la reacción en cadena de la polimerasa que posibilita la amplificación del ADN
+1989	Francis Collins y Lap-Chee Tsui secuencian un gen humano por primera vez El gen codifica la proteína CFTR cuyo defecto causa fibrosis quística
+1990	Se funda el Proyecto Genoma Humano por parte del Departamento de Energía y los Institutos de la Salud de los Estados Unidos
+1995	El genoma de Haemophilus influenzae es el primer genoma secuenciado de un organismo de vida libre
+1996	Se da a conocer por primera vez la secuencia completa de un eucariota la levadura Saccharomyces cerevisiae
+1998	Se da a conocer por primera vez la secuencia completa de un eucariota pluricelular el nematodo Caenorhabditis elegans
+2001	El Proyecto Genoma Humano y Celera Genomics presentan el primer borrador de la secuencia del genoma humano
+2003	14 de abril Se completa con éxito el Proyecto Genoma Humano con el 99% del genoma secuenciado con una precisión del 9999%4
+Importancia de la genética
+El conocimiento en genética ha permitido la mejora extensa en productividad de plantas usadas para el alimento como por ejemplo el arroz trigo y el maíz 
+El conocimiento genético también ha sido un componente dominante de la revolución en salud y asistencia médica en este siglo
+La genética tiene también una gran importancia en la bioingeniería ya que ha permitido modificar el material genético de distintos organismos
+Los avances en éste campo han permitido también la alteración de diversos segmentos del ADN resultando en la creación de nuevos genes y rasgos genéticos y logrando también evitar malformaciones genéticas
+En el área de la salud ha permitido el tratamiento y prevención de la reaparición del síndrome de Down 
+La bioingeniería ofrece la esperanza de crear antibióticos más eficaces además de descubrir una hormona del crecimiento para combatir el enanismo
+Sin duda la genética juega un papel muy importante en la evolución de la especie y la erradicación de enfermedades genéticas
+el sentido de las expresiones musicales se ve afectado por cuestiones psicológicas sociales culturales e históricas
+La definición más habitual en los manuales de música se parece bastante a esta 
+Algunos eruditos han definido y estudiado a la música como un conjunto de tonos ordenados de manera horizontal melodía y vertical armonía 
+Este orden o estructura que debe tener un grupo de sonidos para ser llamados música está por ejemplo presente en las aseveraciones del filósofo Alemán Goethe cuando la comparaba con la arquitectura definiendo metafóricamente a la arquitectura como 
+ La altura musical
+ La duración musical
+ La intensidad musical
+ El timbre musical
+La armonía bajo una concepción vertical de la sonoridad y cuya unidad básica es el acorde regula la concordancia entre sonidos que suenan simultáneamente y su enlace con sonidos vecinos 
+Buena parte de las culturas humanas tienen manifestaciones musicales 
+Algunas especies animales también son capaces de producir sonidos en forma organizada 
+Independientemente de lo que las diversas prácticas musicales de diversos pueblos y culturas tengan en común es importante no perder de vista la diversidad en cuanto a los instrumentos utilizados para producir música en cuanto a las formas de emitir la voz en cuanto a las formas de tratar el ritmo y la melodía y -sobre todo- en cuanto a la función que desempeña la música en las diferentes sociedades 
+no es lo mismo la música que se escucha en una celebración religiosa que la música que se escucha en un anuncio publicitario ni la que se baila en una discoteca 
+Tomando en consideración las funciones que una música determinada desempeña en un contexto social determinado podemos ser más precisos a la hora de definir las características comunes de la música y más respetuosos a la hora de acercarnos a las músicas que no son las de nuestra sociedad
+La mayoría de las definiciones de música sólo toman en cuenta algunas músicas producidas durante determinado lapso en Occidente 
+La idea de que quien crea la música es otra persona distinta de quien la ejecuta así como la idea de que quien escucha la música no está presente en el mismo espacio físico en donde se produce es solamente posible en la sociedad occidental de hace algunos siglos 
+Desde la antigua Grecia en lo que respecta a música occidental existen formas de notación musical 
+Sin embargo es a partir de la música de la edad media principalmente canto gregoriano que se comienza a emplear el sistema de notación musical que evolucionaría al actual 
+En el Renacimiento cristalizó con los rasgos más o menos definitivos con que lo conocemos hoy aunque -como todo lenguaje- ha ido variando según las necesidades expresivas de los usuarios
+El sistema se basa en dos ejes uno horizontal que representa gráficamente el transcurrir del tiempo y otro vertical que representa gráficamente la altura del sonido
+Las alturas se leen en relación a un pentagrama un conjunto de cinco líneas horizontales que al comienzo tiene una 
+Al comienzo del pentagrama habrá una fracción con dos números el número de arriba indica la cantidad de tiempos que tiene cada compás el número de abajo nos indica cuál será la unidad de tiempo
+Cada una vale la mitad de su antecesora la blanca vale la mitad que una redonda y el doble que una negra etc
+Así una partitura encabezada por un 3/4 estará dividida en compases en los que entren tres negras o seis corcheas o una negra y cuatro corcheas etc 
+un compás de 4/8 tendrá cuatro tiempos cada uno de ellos representados por una corchea etc 
+Para representar los silencios el sistema posee otros signos que representan un silencio de redonda de blanca etc
+Como se ve las duraciones están establecidas según una relación binaria doble o mitad lo que no prevé la subdivisión por tres 
+En general las incapacidades del sistema son subsanadas apelando a palabras escritas más o menos convencionales generalmente en italiano 
+Así por ejemplo las intensidades se indican mediante el uso de una f forte fuerte o una p piano suave o varias efes y pes juntas 
+Los videos musicales o videoclips se suelen realizar con multitud de efectos visuales y electrónicos 
+Son producciones muy dinámicas que tienen por objetivo llamar la atención del telespectador 
+Es el género audiovisual en el que hay más creatividad y experimentación 
+Los profesionales que operan en este sector deben tener en cuenta numerosas consideraciones técnicas 
+El videoclip se estructura en función del tema musical que representa es decir la propia pertenencia al género se afirma a través de una serie de elementos visuales a los que se tiene que ceñir 
+Según A Sedeño el videoclip tiene las siguientes características Fin publicitario Se crea con para vender o promocionar una canción o tema musical determinado y junto con ello construir o reforzar la imagen de un artista o grupo 
+Aunque este tipo de género nació íntimamente ligado con la publicidad los grandes presupuestos que mueve permiten múltiples posibilidades de creación así como la contratación de los mejores equipos técnicos 
+Ello ha hecho posible la consecución de otro tipo de logros a través de él se crea ideología y modos de comportamiento estereotipos sociales y referencias culturales y vitales
+El videoclip siempre surge de una obra musical que lo antecede y a la cual pretende sumar riqueza visual para su difusión principalmente televisiva
+Crea un lenguaje y estética específicos con marcas de estilo reconocibles a partir de la relación estética entre imagen y sonido orientada a reforzar los fines publicitarios del género
+Los videos musicales modernos se hacen y usan principalmente como técnicas de marketing con la intención de promocionar la venta de grabaciones musicales 
+Aunque los orígenes de los videos musicales vienen de mucho más lejos su popularidad creció en los años 1980 cuando el formato del canal MTV Music Television se creó alrededor de ellos 
+En 1979 John Lack y Michael Nesmith en los Estados Unidos intentaron crear un canal temático musical por cable pero no fue hasta el 1 de agosto de 1981 cuando la MTV inició sus trasmisiones con un repertorio que era totalmente de origen británico 
+La trasmisión se inició con Video Killed the Radio Stars de los Buggles después Los Who Rod Stewart o los Rolling Stones 
+Institucionalizado gracias a MTV el vídeo musical ha sido la más radical y al mismo tiempo financieramente rentable de las innovaciones de la historia de la televisión 
+Su aparición desde la interconexión de cultura pop historia del arte y economía del marketing es la encarnación del discurso postmoderno tras la muerte de la vanguardia o su versión más populista 
+Incorporando elementos del vídeo experimental el videoarte y la Animación
+1920 Oskar Fischinger y una corriente de creadores europeos de los años 20 sientan las bases de la música visual creando piezas de imagen para temas musicales preexistentes Son pioneros del formato de videoclip
+1930 Carlos Gardel graba diez canciones en Argentina capturando a la vez imagen y sonido
+1940 Walt Disney crea la película Fantasía mezclando la animación y la música
+ 1941 un nuevo invento llega a los bares y clubes de Estados Unidos el Paroram Soundie una rockola que reproduce filmes musicales junto con música
+1956 Hollywood descubre el género de filmes centrados en la música Una ola de filmes de rock and roll empieza Rock Around the Clock Dont Knock the Rock Shake Rattle and Rock Rock Pretty Baby The Girl Cant Help It y los filmes famosos de Elvis Presley Algunos fueron presentaciones musicales dentro de una historia otras fueron shows de revista
+1960 en Francia se fabrica la reinvención del Soundie Se rebautiza como Scopitone y da la posibilidad de seleccionar entre varias piezas en soporte cinematográfico Tiene gran éxito en Francia
+1962 la televisión británica inventa una nueva forma de programas musicales Espectáculos como Top Of The Pops Ready Steady Go!
+1964 la televisión estadounidense adapta este formato Hullabaloo fue uno de los primeros en este tipo seguido por Shindig
+1966 los primeros videos conceptuales son transmitidos como Paperback Writer y Rain canción de The Beatles
+1974 ABBA graba sus dos primeros vídeos conceptuales Ring-Ring y Waterloo canción
+1975 Queen lanza el sencillo Bohemian Rhapsody con el primer vídeo musical de la historia Queen que fue pionero en el género había grabado vídeos conceptuales años antes Reuniendo todas las características para poder llamarse así vídeo musical Aquí comienza un periodo de transición
+1981 MTV el primer canal de videos musicales las 24 horas sale al aire Inicialmente pocos operadores de cable lo tenían después se volvió un mayor éxito e icono cultural 
+El primer video que emiten es Video Killed the Radio Star del grupo The Buggles
+1982 Mecano banda
+1983 aparece el video Michael Jacksons Thriller
+1995 MTV empieza a nombrar a los directores de los videos musicales
+2005 nace el sitio web YouTube que supone un acceso más fácil y rápido a videos musicales y de otra índole por medio de internet
+Con este sistema Ramón Barce creó la mayor parte de su amplio catálogo musical y ha sido muy influyente en la música contemporánea española
+Para muchos este sistema que primero se dio en llamar Sistema de Niveles de Altura es uno de los pocos a los que se puede llamar como tal en la historia reciente pues tiene suficiente entidad polivalencia coherencia interna expresividad y autosuficiencia como para ser considerado como una alternativa a los sistemas prevenientes del Sistema Dodecafónico de Arnold Schönberg como el Serialismo Integral 
+El Sistema de Niveles propugnaba el mantenimiento de las relaciones jerárquicas consecuente a las leyes de la tonalidad pero en su aspecto más sencillo 
+Matemáticas_El 
+Los matemáticos buscan patrones2 3 formulan nuevas conjeturas e intentan alcanzar la verdad matemática mediante rigurosas deducciones  
+Éstas les permiten establecer los axiomas y las definiciones apropiados para dicho fin4 
+Algunas definiciones clásicas restringen las matemáticas al razonamiento sobre cantidades1 aunque sólo una parte de las matemáticas actuales usan números  predominando el análisis lógico de construcciones abstractas no cuantitativas  
+Existe cierta discusión acerca de si los objetos matemáticos  como los números y puntos  realmente existen o simplemente provienen de la imaginación humana  
+Por otro lado  Albert_Einstein declaró que « cuando las leyes de la matemática se refieren a la realidad  no son exactas  cuando son exactas  no se refieren a la realidad » 6 
+Mediante la abstracción y el uso de la lógica en el razonamiento  las matemáticas han evolucionado basándose en las cuentas  el cálculo y las mediciones  junto con el estudio sistemático de la forma y el movimiento de los objetos físicos  
+Las matemáticas  desde sus comienzos  han tenido un fin práctico  
+Las explicaciones que se apoyaban en la lógica aparecieron por primera vez con la matemática helénica  especialmente con los Elementos de Euclides  
+Las matemáticas siguieron desarrollándose  con continuas interrupciones  hasta que en el Renacimiento las innovaciones matemáticas interactuaron con los nuevos descubrimientos científicos  
+Como consecuencia  hubo una aceleración en la investigación que continúa hasta la actualidad  
+Hoy en día  las matemáticas se usan en todo el mundo como una herramienta esencial en muchos campos  entre los que se encuentran las ciencias naturales  la ingeniería  la medicina y las ciencias sociales  e incluso disciplinas que  aparentemente  no están vinculadas con ella  como la música  por ejemplo  en cuestiones de resonancia armónica   
+Los matemáticos también participan en las matemáticas puras  sin tener en cuenta la aplicación de esta ciencia  aunque las aplicaciones prácticas de las matemáticas puras suelen ser descubiertas con el paso del tiempo  
+La palabra « matemática »  del griego ??????????  « cosas que se aprenden »  viene del griego antiguo ??????  máthema   que quiere decir « campo de estudio o instrucción »  
+El significado se contrapone a ???????  musiké  « lo que se puede entender sin haber sido instruido »  que refiere a poesía  retórica y campos similares  mientras que ?????????? se refiere a las áreas del conocimiento que sólo pueden entenderse tras haber sido instruido en las mismas  astronomía  aritmética  7 
+Aunque el término ya era usado por los pitagóricos  matematikoi  en el siglo VI a  C  alcanzó su significado más técnico y reducido de « estudio matemático » en los tiempos de Aristóteles  siglo IV a  C   
+Su adjetivo es ???????????  mathematikós   « relacionado con el aprendizaje »  lo cual  de manera similar  vino a significar « matemático »  
+En particular  ?????????? ?????  mathematik? tékhne  en latín ars mathematica   significa « el arte matemática »  
+La forma más usada es el plural matemáticas  que tiene el mismo significado que el singular1 y viene de la forma latina mathematica  Cicerón   basada en el plural en griego ?? ??????????  ta mathematiká   usada por Aristóteles y que significa  a grandes rasgos  « todas las cosas matemáticas »  
+Algunos autores  sin embargo  hacen uso de la forma singular del término  tal es el caso de Bourbaki  en el tratado Élements de mathématique  Elementos de matemática    1940   destaca la uniformidad de este campo aportada por la visión axiomática moderna  aunque también hace uso de la forma plural como en Éléments dhistoire des mathématiques  Elementos de historia de las matemáticas   1969   posiblemente sugiriendo que es Bourbaki quien finalmente realiza la unificación de las matemáticas8 
+Así mismo  en el escrito LArchitecture des mathématiques  1948  plantea el tema en la sección « Matemáticas  singular o plural » donde defiende la unicidad conceptual de las matemáticas aunque hace uso de la forma plural en dicho escrito  
+Es muy posible que el arte del cálculo haya sido desarrollado antes incluso que la escritura10 relacionado fundamentalmente con la contabilidad y la administración de bienes  el comercio  en la agrimensura y  posteriormente  en la astronomía  
+Actualmente  todas las ciencias aportan problemas que son estudiados por matemáticos  al mismo tiempo que aparecen nuevos problemas dentro de las propias matemáticas  
+Por ejemplo  el físico Richard_Feynman propuso la integral de caminos como fundamento de la mecánica cuántica  combinando el razonamiento matemático y el enfoque de la física  pero todavía no se ha logrado una definición plenamente satisfactoria en términos matemáticos  
+Algunas matemáticas solo son relevantes en el área en la que estaban inspiradas y son aplicadas para otros problemas en ese campo  
+Sin embargo  a menudo las matemáticas inspiradas en un área concreta resultan útiles en muchos ámbitos  y se incluyen dentro de los conceptos matemáticos generales aceptados  
+Como en la mayoría de las áreas de estudio  la explosión de los conocimientos en la era científica ha llevado a la especialización de las matemáticas  
+Hay una importante distinción entre las matemáticas puras y las matemáticas aplicadas  
+La mayoría de los matemáticos que se dedican a la investigación se centran únicamente en una de estas áreas y  a veces  la elección se realiza cuando comienzan su licenciatura  
+Varias áreas de las matemáticas aplicadas se han fusionado con otras áreas tradicionalmente fuera de las matemáticas y se han convertido en disciplinas independientes  como pueden ser la estadística  la investigación de operaciones o la informática  
+Aquellos que sienten predilección por las matemáticas  consideran que prevalece un aspecto estético que define a la mayoría de las matemáticas  
+Muchos matemáticos hablan de la elegancia de la matemática  su intrínseca estética y su belleza interna  
+En general  uno de sus aspectos más valorados es la simplicidad  
+Hay belleza en una simple y contundente demostración  como la demostración de Euclides de la existencia de infinitos números primos  y en un elegante análisis numérico que acelera el cálculo  así como en la transformada rápida de Fourier  
+G_H_Hardy en A Mathematician_s_Apology  Apología de un matemático  expresó la convicción de que estas consideraciones estéticas son  en sí mismas  suficientes para justificar el estudio de las matemáticas puras13 
+Los matemáticos con frecuencia se esfuerzan por encontrar demostraciones de los teoremas que son especialmente elegantes  el excéntrico matemático Paul_Erdos se refiere a este hecho como la búsqueda de pruebas de  El Libro  en el que Dios ha escrito sus demostraciones favoritas14 
+La popularidad de la matemática recreativa es otra señal que nos indica el placer que produce resolver las preguntas matemáticas  
+La mayor parte de la notación matemática que se utiliza hoy en día no se inventó hasta el siglo XVIII16 Antes de eso  las matemáticas eran escritas con palabras  un minucioso proceso que limitaba el avance matemático  
+En el siglo XVIII  Euler  fue responsable de muchas de las notaciones empleadas en la actualidad  
+La notación moderna hace que las matemáticas sean mucho más fácil para los profesionales  pero para los principiantes resulta complicada  
+La notación reduce las matemáticas al máximo  hace que algunos símbolos contengan una gran cantidad de información  
+Al igual que la notación musical  la notación matemática moderna tiene una sintaxis estricta y codifica la información que sería difícil de escribir de otra manera  
+El símbolo de infinito en diferentes tipografías  
+El lenguaje matemático también puede ser difícil para los principiantes  
+Palabras tales como o y sólo tiene significados más precisos que en lenguaje cotidiano  
+Además  palabras como abierto y cuerpo tienen significados matemáticos muy concretos  
+La jerga matemática  o lenguaje matemático  incluye términos técnicos como homeomorfismo o integrabilidad  
+La razón que explica la necesidad de utilizar la notación y la jerga es que el lenguaje matemático requiere más precisión que el lenguaje cotidiano  
+Los matemáticos se refieren a esta precisión en el lenguaje y en la lógica como el « rigor »  
+Los matemáticos quieren que sus teoremas a partir de los axiomas sigan un razonamiento sistemático  
+Esto sirve para evitar teoremas erróneos  basados en intuiciones falibles  que se han dado varias veces en la historia de esta ciencia17 
+El nivel de rigor previsto en las matemáticas ha variado con el tiempo  los griegos buscaban argumentos detallados  pero en tiempos de Isaac_Newton los métodos empleados eran menos rigurosos  
+Los problemas inherentes de las definiciones que Newton utilizaba dieron lugar a un resurgimiento de un análisis cuidadoso y a las demostraciones oficiales del siglo XIX  
+Ahora  los matemáticos continúan apoyándose entre ellos mediante demostraciones asistidas por ordenador18 
+Un axioma se interpreta tradicionalmente como una « verdad evidente »  pero esta concepción es problemática  
+La matemática como ciencia 
+Carl_Friedrich_Gauss  apodado el  príncipe de los matemáticos   se refería a la matemática como  la reina de las ciencias   
+Muchos filósofos creen que las matemáticas no son experimentalmente falseables  y  por tanto  no es una ciencia según la definición de Karl Popper20 
+No obstante  en la década de 1930 una importante labor en la lógica matemática demuestra que las matemáticas no puede reducirse a la lógica  y Karl_Popper llegó a la conclusión de que « la mayoría de las teorías matemáticas son  como las de física y biología  hipotético-deductivas  
+Por lo tanto  las matemáticas puras se han vuelto más cercanas a las ciencias naturales cuyas hipótesis son conjeturas  así ha sido hasta ahora » 21 
+Otros pensadores  en particular Imre_Lakatos  han solicitado una versión de Falsacionismo para las propias matemáticas  
+Una visión alternativa es que determinados campos científicos  como la física teórica  son matemáticas con axiomas que pretenden corresponder a la realidad  
+En cualquier caso  las matemáticas tienen mucho en común con muchos campos de las ciencias físicas  especialmente la exploración de las consecuencias lógicas de las hipótesis  
+La intuición y la experimentación también desempeñan un papel importante en la formulación de conjeturas en las matemáticas y las otras ciencias  
+Las matemáticas experimentales siguen ganando representación dentro de las matemáticas  
+El cálculo y simulación están jugando un papel cada vez mayor tanto en las ciencias como en las matemáticas  atenuando la objeción de que las matemáticas no se sirven del método científico  
+En 2002 Stephen_Wolfram sostiene  en su libro Un nuevo tipo de ciencia  que la matemática computacional merece ser explorada empíricamente como un campo científico  
+Las opiniones de los matemáticos sobre este asunto son muy variadas  
+Muchos matemáticos consideran que llamar a su campo ciencia es minimizar la importancia de su perfil estético  además supone negar su historia dentro de las siete artes liberales  
+Otros consideran que hacer caso omiso de su conexión con las ciencias supone ignorar la evidente conexión entre las matemáticas y sus aplicaciones en la ciencia y la ingeniería  que ha impulsado considerablemente el desarrollo de las matemáticas  
+Otro asunto de debate  que guarda cierta relación con el anterior  es si la matemática fue creada  como el arte  o descubierta  como la ciencia   
+Este es uno de los muchos temas de incumbencia de la filosofía de las matemáticas  
+Los premios matemáticos se mantienen generalmente separados de sus equivalentes en la ciencia  
+A menudo se le considera el equivalente del Premio_Nobel para la ciencia  
+Otros premios son el Premio_Wolf en matemática  creado en 1978  que reconoce el logro en vida de los matemáticos  y el Premio_Abel  otro gran premio internacional  que se introdujo en 2003  
+Estos dos últimos se conceden por un excelente trabajo  que puede ser una investigación innovadora o la solución de un problema pendiente en un campo determinado  
+Una famosa lista de esos 23 problemas sin resolver  denominada los « Problemas de Hilbert »  fue recopilada en 1900 por el matemático alemán David_Hilbert  
+Esta lista ha alcanzado gran popularidad entre los matemáticos y  al menos  nueve de los problemas ya han sido resueltos  
+Una nueva lista de siete problemas fundamentales  titulada « Problemas del milenio »  se publicó en 2000  
+La solución de cada uno de los problemas será recompensada con 1 millón de dólares  
+Curiosamente  tan solo uno  la hipótesis de Riemann  aparece en ambas listas  
+La_Sociedad_Americana de Matemáticas distingue unas 5000 ramas distintas de matemáticas25 
+En una subdivisión amplia de las matemáticas se distinguen cuatro objetos de estudio básicos  la cantidad  la estructura  el espacio y el cambio que se corresponden a la aritmética  álgebra  geometría y cálculo  
+Además  hay ramas de las matemáticas conectadas a otros campos como la lógica y teoría de conjuntos  y las matemáticas aplicadas  
+Álgebra lineal 
+El álgebra lineal es una de las ramas de las matemáticas que estudia conceptos tales como vectores  matrices  sistemas de ecuaciones lineales y su enfoque en un enfoque más formal  espacios vectoriales y sus transformaciones lineales  
+Es un área activa que tiene conexiones con muchas áreas dentro y fuera de las matemáticas como ser el análisis funcional  las ecuaciones diferenciales  la investigación de operaciones  las gráficas por computadora  la ingeniería  etc  
+La historia del álgebra lineal moderna se remonta a los años de 1843 cuando William_Rowan_Hamilton  de quien proviene el uso del término vector  creó los cuaterniones  y de 1844 cuando Hermann_Grassmann publicó su libro Die lineare Ausdehnungslehre  La teoría lineal de extensión  
+ métodos cuantitativos   
+Finalmente  el álgebra lineal estudia también las propiedades que aparecen cuando se impone estructura adicional sobre los espacios vectoriales  siendo una de las más frecuentes la existencia de un producto interno  una especie de producto entre dos vectores  que permite introducir nociones como longitud de vectores y ángulo entre un par de los mismos  
+Dentro de los espacios vectoriales de dimensión finita  son de amplio uso los tres tipos siguientes de espacios vectoriales  
+Podemos encontrar un ejemplo de ellos en los vectores R2  que son famosos por representar las coordenadas cartesianas   23    34    
+Matrices m \ times n 
+Artículo principal  Matriz  matemática   Es un arreglo rectangular de números  símbolos o expresiones  cuyas dimensiones son descritas en las cantidades de filas  usualmente m  por las de columnas  n  que poseen  
+Los arreglos matriciales son particularmente estudiados por el álgebra lineal y son bastantes usados en las ciencias e ingeniería  
+Espacio vectorial de polinomios en una misma variable 
+Un ejemplo espacio vectorial está dado por todos los polinomios cuyo grado es menor o igual a 2 con coeficientes reales sobre una variable x  
+Ejemplos de tales polinomios son  4x ^ 2-5x+1\quad \ frac { 2x ^ 2 } { 7 } -3\quad 8x+4\quad 5 
+La suma de dos polinomios cuyo grado no excede a 2 es otro polinomio cuyo grado no excede a 2   3x ^ 2-5x+1  +  4x-8  = 3x ^ 2 - x -7 
+El campo de escalares es naturalmente el de los números reales  y es posible multiplicar un número por un polinomio  5\cdot  2x + 3  = 10x + 15 donde el resultado nuevamente es un polinomio  es decir  un vector   
+El operador derivada satisface las condiciones de linealidad  y aunque es posible demostrarlo con rigor  simplemente lo ilustramos con un ejemplo la primera condición de linealidad  D   4x ^ 2 + 5x-3  +  x ^ 2 - x -1   = D  5x ^ 2 +4x -4  =10x + 4 y por otro lado  D  4x ^ 2+5x-3  + D  x ^ 2-x-1  =  8x+5  +  2x-1  = 10x +4  
+Cualquier espacio vectorial tiene una representación en coordenadas similar a \ mathbb { R } ^ n  lo cual se obtiene mediante la elección de una base  álgebra   es decir  un conjunto especial de vectores   y uno de los temas recurrentes en el álgebra lineal es la elección de bases apropiadas para que los vectores de coordenadas y las matrices que representan las transformaciones lineales tengan formas sencillas o propiedades específicas  
+Puesto que el álgebra lineal es una teoría exitosa  sus métodos se han desarrollado por otras áreas de la matemática  en la teoría de módulos  que remplaza al cuerpo en los escalares por un anillo  en el álgebra multilineal  uno lidia con  múltiples variables  en un problema de mapeo lineal  en el que cada número de las diferentes variables se dirige al concepto de tensor  en la teoría del espectro de los operadores de control de matrices de dimensión infinita  aplicando el análisis matemático en una teoría que no es puramente algebraica  
+En todos estos casos las dificultades técnicas son mucho más grandes  
+Función holomorfa 
+De_Wikipedia  la enciclopedia libre 
+Esta condición es mucho más fuerte que la diferenciabilidad en caso real e implica que la función es infinitamente diferenciable y que puede ser descrita mediante su serie de Taylor  
+El término función analítica se usa a menudo en vez del de  función holomorfa   especialmente para cuando se trata de la restricción a los números reales de una función holomorfa  
+La frase  holomorfa en un punto a  significa no sólo diferenciable en a  sino diferenciable en todo un disco abierto centrado en a  en el plano complejo  
+Índice 1 Definición 2 Ejemplos 3 Propiedades 4 Véase también 5 Referencias_Definición_Si_U 
+es un conjunto abierto de C  ver espacio métrico para la definición de  abierto   y \ scriptstyle f  U \ to \ mathbb { C } es una función  se dice que f es complejo-diferenciable en el punto z0 de U si existe el siguiente límite  f   z_0  = \ lim _ { z \ rightarrow z_0 } { f  z  - f  z_0  \ over z - z_0 } 
+Este límite se toma aquí sobre todas las sucesiones de números complejos que se aproximen a z0  y para todas esas sucesiones el cociente de diferencias tiene que dar el mismo número f   z0   
+Intuitivamente  si f es complejo-diferenciable en z0 y nos aproximamos al punto z0 desde la dirección r  entonces las imágenes se acercarán al punto f  z0  desde la dirección f   z0  r  donde el último producto es la multiplicación de números complejos  
+Este concepto de diferenciabilidad comparte varias propiedades con la diferenciabilidad en caso real  es lineal y obedece a las reglas de derivación del producto  del cociente y de la cadena  
+Si f es complejo-diferenciable y las derivadas son continuas en cada punto z0 en U  se dice que f es holomorfa en U_Es 
+claro que  al igual que en el caso real  si f es holomorfa e inyectiva en U  con inversa continua  entonces f ^ { -1 } es holomorfa y su derivada vale   f ^ { -1 }    z  = { 1 \ over f   f ^ { -1 }  z   } 
+Ejemplos_Todas las funciones polinómicas en z con coeficientes complejos son holomorfas sobre C  y también lo son las funciones trigonométricas de z y la función exponencial  
+ Las funciones trigonométricas están de hecho relacionadas estrechamente con esta última y pueden definirse a partir de ella usando la fórmula de Euler   
+Propiedades_Ya 
+que la diferenciación compleja es lineal y cumple las reglas del producto  del cociente y de la cadena  se tendrá que las sumas  productos  composiciones son también holomorfas  y el cociente de dos funciones holomorfas lo será allá donde el denominador sea distinto de cero  
+esta serie convergerá sobre cada disco abierto que se encuentre dentro del dominio U_La 
+serie de Taylor puede converger en un disco más grande  por ejemplo  la serie de Taylor para el logaritmo converge sobre cada disco que no contenga al 0  incluso en las cercanías de la línea real negativa  
+Ver demostración de que las funciones holomorfas son analíticas  
+La fórmula integral de Cauchy dice que los valores  dentro de un disco  de una función holomorfa  quedan determinados por los valores de la función en la frontera del disco  
+Serie de Taylor_De_Wikipedia 
+ la enciclopedia libre 
+A medida que aumenta el grado del polinomio de MacLaurin  se aproxima a la función  
+Se ilustran las aproximaciones de MacLaurin a sen  x   centradas en 0  de grados 1  3  5  7  9  11 y 13  
+La gráfica de la función exponencial  en azul   y la suma de los primeros n+1 términos de su serie de Taylor en torno a cero  en rojo   
+Estos términos se calculan a partir de las derivadas de la función para un determinado valor de la variable  respecto de la cual se deriva   lo que involucra un punto específico sobre la función  
+Esta representación tiene tres ventajas importantes  La derivación e integración de una de estas series se puede realizar término a término  que resultan operaciones triviales  
+Se puede utilizar para calcular valores aproximados de la función  
+Es posible demostrar que  si es viable la transformación de una función a una serie de Taylor  es la óptima aproximación posible  
+Algunas funciones no se pueden escribir como serie de Taylor porque tienen alguna singularidad  
+En estos casos normalmente se puede conseguir un desarrollo en serie utilizando potencias negativas de x  véase Serie de Laurent  
+Por ejemplo f  x  = exp  - 1/x ²  se puede desarrollar como serie de Laurent  
+Definición_La 
+serie de Taylor de una función f real o compleja   x  infinitamente diferenciable en el entorno de un número real o complejo a es la siguiente serie de potencias 
+ f  a  + \ frac { f   a  } { 1 ! }  x-a  + \ frac { f   a  } { 2 ! }  x-a  ^ 2+\frac { f ^ {  3  }  a  } { 3 ! }  x-a  ^ 3+\cdots 
+que puede ser escrito de una manera más compacta como la siguiente sumatoria  
+\ sum _ { n=0 } ^ { \ infin } \ frac { f ^ {  n  }  a  } { n ! }  x-a  ^ { n } \   
+donde n ! es el factorial de n y f  n   a  denota la n-ésima derivada de f para el valor a de la variable respecto de la cual se deriva  La derivada de orden cero de f es definida como la propia f y tanto  x - a  0 como 0 ! como 1  0 ! = 1   
+En caso de ser a = 0  como ya se mencionara  la serie se denomina también de Maclaurin  
+Cabe destacar que en una serie de Taylor de potencias centrada en a de la forma \ sum ^ { } _ { } a_n  x-a  ^ n siempre se puede hacer el cambio de variable z = x-a  con lo que x = z+a en la función a desarrollar original  para expresarla como \ sum ^ { } _ { } a_nz ^ n centrada en 0  
+Luego hay que deshacer el cambio de variable  
+Por ejemplo  si se quiere desarrollar la función f  x  = x \ ln x alrededor de a = 1 se puede tomar z=x-1  de manera que se desarrollaría f  z+1  =  z+1  \ ln  z+1  centrada en 0  
+Historia_El 
+filósofo eleata Zenón de Elea consideró el problema de sumar una serie infinita para lograr un resultado finito  pero lo descartó por considerarlo imposible  el resultado fueron las paradojas de Zenón  
+Posteriormente  Aristóteles propuso una resolución filosófica a la paradoja  pero el contenido matemático de esta no quedó resuelto hasta que lo retomaron Demócrito y después Arquímedes  
+Fue a través del método exhaustivo de Arquímedes que un número infinito de subdivisiones geométricas progresivas podían alcanzar un resultado trigonométrico finito1 Independientemente  Liu_Hui utilizó un método similar cientos de años después2 
+En el siglo XIV  los primeros ejemplos del uso de series de Taylor y métodos similares fueron dados por Madhava de Sangamagrama3 
+A pesar de que hoy en día ningún registro de su trabajo ha sobrevivido a los años  escritos de matemáticos hindúes posteriores sugieren que él encontró un número de casos especiales de la serie de Taylor  incluidos aquellos para las funciones trigonométricas del seno  coseno  tangente y arcotangente  
+En el siglo XVII  James_Gregory también trabajó en esta área y publicó varias series de Maclaurin  
+Pero recién en 1715 se presentó una forma general para construir estas series para todas las funciones para las que existe y fue presentado por Brook_Taylor  de quién recibe su nombre  
+Las series de Maclaurin fueron nombradas así por Colin_Maclaurin  un profesor de Edinburgo  quién publicó el caso especial de las series de Taylor en el siglo XVIII  
+Función analítica 
+Para comprobar si la serie converge a f  x   se suele utilizar una estimación del resto del teorema de Taylor  
+los coeficientes de esa serie son necesariamente los determinados en la fórmula de la serie de Taylor  
+Se suele aproximar una función mediante un número finito de términos de su serie de Taylor  
+El Teorema de Taylor facilita la estimación cuantitativa del error de dicha aproximación  
+Una función puede no ser igual a la serie de Taylor ni siquiera convergiendo tal serie para cada punto  Una función igual a su serie de Taylor en un intervalo abierto  o un disco en el plano complejo  se denomina función analítica   
+Aplicaciones_Además 
+de la obvia aplicación de utilizar funciones polinómicas en lugar de funciones de mayor complejidad para analizar el comportamiento local de una función  las series de Taylor tienen muchas otras aplicaciones  
+Algunas de ellas son  análisis de límites y estudios paramétricos de los mismos  estimación de números irracionales acotando su error  teorema de LHopital para la resolución de límites indeterminados  estudio de puntos estacionarios en funciones  máximos o mínimos relativos o puntos sillas de tendencia estrictamente creciente o decreciente   estimación de integrales  determinación de convergencia y suma de algunas series importantes  estudio de orden y parámetro principal de infinitésimos  etc  
+Axioma 
+A veces se compara a los axiomas con semillas  porque de ellos surge toda la teoría de la cual son axiomas  
+Tradicionalmente los axiomas se eligen de las consideradas « afirmaciones evidentes »  porque permiten deducir las demás fórmulas  
+En matemática se distinguen dos tipos de proposiciones  axiomas lógicos y postulados  
+La palabra axioma proviene del sustantivo griego a???µa  que significa « lo que parece justo » o  que se le considera evidente  sin necesidad de demostración  
+El término viene del verbo griego a???e??  axioein   que significa « valorar »  que a su vez procede de a????  axios   « valioso » o « digno »  
+Lógica_La 
+Los axiomas han de cumplir sólo un requisito  de ellos  y de reglas de inferencia  han de deducirse todas las demás proposiciones de una teoría dada  
+Axioma lógico 
+Los axiomas son ciertas fórmulas en un lenguaje formal que son universalmente válidas  esto es fórmulas satisfechas por cualquier estructura y por cualquier función variable  
+En términos coloquiales son enunciados verdaderos en cualquier mundo posible  bajo cualquier interpretación posible  con cualquier asignación de valores  
+Comúnmente se toma como axioma un conjunto mínimo de tautologías suficientes para probar una teoría  
+Ejemplo 1 
+En cálculo proposicional es común tomar como axiomas lógicos todas las fórmulas siguientes  
+\ phi \ to  \ psi \ to \ phi  \   \ phi \ to  \ psi \ to \ chi   \ to   \ phi \ to \ psi  \ to  \ phi \ to \ chi   \   \ lnot \ phi \ to \ lnot \ psi  \ to  \ psi \ to \ phi   
+donde \ phi \   \ psi \   y \ chi \  pueden ser cualquier fórmula en el lenguaje  
+Cada uno de estos patrones es un esquema de axiomas  una regla para generar un número infinito de axiomas  
+Por ejemplo si p  q  y r son variables proposicionales  entonces p \ to  q \ to r  \  y  p \ to \ neg q  \ to  r \ to  p \ to \ neg q   \  son instancias del esquema 1 y por lo tanto son axiomas  
+Puede probarse que  con solamente estos tres esquemas de axiomas y la regla de inferencia modus ponens  todas las tautologías del cálculo proposicional son demostrables  
+También se puede probar que ningún par de estos esquemas es suficiente para demostrar todas las tautologías utilizando modus ponens  
+Este conjunto de esquemas axiomáticos también se utiliza en el cálculo de predicados  pero son necesarios más axiomas lógicos  
+Ejemplo 2 
+Sea \ mathfrak { L } \  un lenguaje de primer orden  
+Para cada variable x \  la fórmula x = x \  es universalmente válida  
+Esto significa que  para cualquier símbolo variable x \   la fórmula x = x \  puede considerarse axioma  
+Para no incurrir en vaguedad o en una serie infinita de « nociones primitivas »  primero se necesita una idea de lo que se desea expresar mediante x = x \   o definir un uso puramente formal y sintáctico del símbolo = \   
+De hecho sucede esto en Lógica matemática  
+Otro ejemplo interesante es el de « instanciación universal »  mediante el cuantificador universal  
+Para una fórmula \ phi \  en un lenguaje de primer orden \ mathfrak { L } \   una variable x \  y un término t \  sustituible por x \  en \ phi \   la fórmula \ forall x  \ phi \ to \ phi ^ x_t es válida universalmente  
+En términos informales este ejemplo permite afirmar que si se sabe que cierta propiedad P \  se cumple para toda x \  y que si t \  es un objeto particular en la estructura  se estaría en capacidad de afirmar P  t  \   
+De nuevo se afirma que la fórmula \ forall x  \ phi \ \ to \ phi ^ x_t es válida  
+Esto es  se debe ser capaz de aportar una prueba de este hecho  o - mejor expresado - una metaprueba  
+En efecto  estos ejemplos son metateoremas de la teoría de lógica matemática  ya que la referencia es meramente al concepto demostrativo en sí  
+Además se puede extender a una generalización existencial utilizando el cuantificador existencial  
+Esquema axiomático  
+Para una fórmula \ phi \  en un lenguaje de primer orden \ mathfrak { L } \   una variable x \  y un término t \  sustituible por x \  en \ phi \   la \ phi ^ x_t \ to \ exists x  \ phi es universalmente válida  
+Matemáticas_Para 
+que todos los procedimientos matemáticos usados sean válidos se debe partir de una base que respalde cada procedimiento  cada paso lógico usado  y debe  en consecuencia  demostrarse cada afirmación no trivial  
+Son estas demostraciones los pilares fundamentales de toda rama de las matemáticas  ya que sin ellos puede ponerse en duda la veracidad de cualquier afirmación  
+Serán  por lo tanto  afirmaciones que se aceptan como verdaderas debido a su trivialidad  pudiendo en ocasiones ser demostradas cuando no lo son  
+El otro tipo de afirmaciones a las que se hace referencia diciendo  afirmación no trivial  son los teoremas  que son ya  afirmaciones no tan triviales y muchas veces poco intuitivas  
+Estas afirmaciones deben ser demostradas usando los axiomas u otros teoremas ya demostrados  
+Muchas partes de la matemática están axiomatizadas  lo que significa que existe un conjunto de axiomas de los cuales es posible deducir todas las verdades de esa parte de la matemática  
+Por ejemplo  de los axiomas de Peano es posible deducir todas las verdades de la aritmética  y por extensión  de otras partes de la matemática   
+El formalismo surgido como consecuencia de la crisis fundacional de principios del siglo XX dio lugar al llamado programa de Hilbert  
+Dicho programa abogaba por la formalización de diferentes ramas de las matemáticas mediante un conjunto de axiomas explícitos  en general formulados en lenguajes formales de primer orden  
+Eso significa que junto con los axiomas lógicos ordinarios de una teoría de primer orden se introducían símbolos extralógicos  para constantes  funciones y predicados  y ciertos axiomas matemáticos que usaban dichos signos que restringían su comportamiento  
+Cada teoría matemática necesita un conjunto diferente de signos extralógicos  por ejemplo la aritmética de primer orden requiere la función « siguiente » y una constante que designe al primer de los números naturales  a partir de esos dos signos nuevos una constante y una función  son definibles la suma  la multiplicación  la relación de orden « menor o igual » y todas las nociones necesarias para la aritmética   
+El programa de Hilbert hizo concebir la posibilidad de unas matemáticas en que la propia consistencia de axiomas escogidos fuera verificable de manera relativamente simple  
+Sin embargo  el teorema de incompletitud de Gödel y otros resultados mostraron la inviabilidad del programa de Hilbert para los fines con los que fue propuesto  
+Limitaciones de los sistemas axiomáticos 
+A mediados del siglo XX  Kurt_Gödel demostró sus famosos teoremas de incompletitud  
+Estos teoremas mostraban que aunque un sistema de axiomas recursivos estuvieran bien definidos y fueran consistentes  los sistemas axiomáticos con esos sistemas de axiomas adolecen de limitaciones graves  
+Es importante  notar aquí la restricción de que el sistema de axiomas sea recursivamente enumerable  es decir  que el conjunto de axiomas forme un conjunto recursivamente enumerable dada una codificación o gödelización de los mismos  
+Esa condición técnica se requiere ya que si el conjunto de axiomas no es recursivo entonces la teoría ni siquiera será decidible  
+Con esa restricción Gödel demostró  que si la teoría admite un modelo de cierta complejidad siempre hay una proposición P verdadera pero no demostrable  
+Gödel prueba que en cualquier sistema formal que incluya aritmética puede generarse una proposición P mediante la cual se afirme que este enunciado no es demostrable  
+Bioinformática_La 
+Entre estas pueden destacarse las siguientes  
+matemática aplicada5 estadística6 ciencias de la computación7 inteligencia artificial8 química9 y bioquímica10 con las que el Ingeniero_Informático soluciona problemas al analizar datos  o simular sistemas o mecanismos  todos ellos de índole biológica  y usualmente  pero no de forma exclusiva  en el nivel molecular11 
+El núcleo principal de estas técnicas se encuentra en la utilización de recursos computacionales para solucionar o investigar problemas sobre escalas de tal magnitud que sobrepasan el discernimiento humano  
+La investigación en biología computacional se solapa a menudo con la biología de sistemas12 
+Los principales esfuerzos de investigación en estos campos incluyen el alineamiento de secuencias  la predicción de genes  montaje del genoma  alineamiento estructural de proteínas  predicción de estructura de proteínas  predicción de la expresión génica  interacciones proteína-proteína  y modelado de la evolución13 
+Una constante en proyectos de bioinformática y biología computacional es el uso de herramientas matemáticas para extraer información útil de datos producidos por técnicas biológicas de alta productividad  como la secuenciación del genoma  
+En particular  el montaje o ensamblado de secuencias genómicas de alta calidad desde fragmentos obtenidos tras la secuenciación del ADN a gran escala es un área de alto interés13 
+Otros objetivos incluyen el estudio de la regulación genética para interpretar perfiles de expresión génica utilizando datos de chips de ADN o espectrometría de masas15 
+Alineamiento de diferentes proteínas de hemoglobina  realizado con el servicio web para ClustalW implementado en el Instituto_Europeo de Bioinformática  
+Como se ha avanzado en la introducción  los términos bioinformática  biología computacional y biocomputación son utilizados a menudo como sinónimos  apareciendo con frecuencia en la literatura básica de forma indiferenciada en sus usos comunes  
+Sin embargo  hay conformadas áreas de aplicación propias de cada término  
+El NIH  National Institutes_of_Health  Institutos_Nacionales de la Salud de los Estados_Unidos   por ejemplo  aún reconociendo previamente que ninguna definición podría eliminar completamente el solapamiento entre actividades de las diferentes técnicas  define explícitamente los términos bioinformática y biología computacional16 
+De esta forma  la bioinformática tendría más que ver con la información  mientras que la biología computacional lo haría con las hipótesis  
+Aparte de las definiciones formales de organismos o instituciones de referencia  los manuales de esta materia aportan sus propias definiciones operativas  lógicamente vinculadas en mayor o menor medida con las ya vistas  
+Como ejemplo  David_W_Mount  en su difundido texto sobre bioinformática18 precisa que   la bioinformática se centra más en el desarrollo de herramientas prácticas para la gestión de datos y el análisis  por ejemplo  la presentación de información genómica y análisis secuencial   pero con menor énfasis en la eficiencia y en la precisión  
+Por otra parte  y según el mismo autor   la biología computacional generalmente se relaciona con el desarrollo de algoritmos nuevos y eficientes  que se puede demostrar funcionan sobre un problema difícil  tales como el alineamiento múltiple de secuencias o el montaje  o ensamblado  de fragmentos de genoma  
+Por último  se encuentra en ocasiones una categorización explícita de estos conceptos según la cual la bioinformática es una subcategoría de la biología computacional  
+No obstante  y refiriéndose a su propio texto  Developing Bioinformatics_Computer_Skills  desarrollo de habilidades computacionales para bioinformática   enseguida pasa a aclarar que   pasaremos de bioinformática a biología computacional y viceversa  
+Las distinciones entre las dos no son importantes para nuestro propósito aquí  
+En muchas ocasiones  por lo tanto  los términos serán intercambiables y  salvo en contextos de cierta especialización  el significado último se mantendrá claro utilizando cualquiera de ellos  
+Historia 
+En lo que sigue  y además de los hechos relevantes directamente relacionados con el desarrollo de la bioinformática  se mencionarán algunos hitos científicos y tecnológicos que servirán para poner en un contexto adecuado tal desarrollo20 
+Arrancaremos esta breve historia en la década de los 50 del pasado siglo XX  años en los que Watson y Crick proponen la estructura de doble hélice del ADN  1953  21 se secuencia la primera proteína  insulina bovina  por F_Sanger  1955  22 o se construye el primer circuito integrado por Jack_Kilby en los laboratorios de Texas_Instruments  1958  23 
+Las primeras décadas  años 60 y 70 del siglo XX 
+En los años 60  L_Pauling elabora su teoría sobre evolución molecular  1962  24 y Margaret_Dayhoff  una de las pioneras de la bioinformática  publica el primero de los Atlas_of_Protein_Sequences  1965   que tendrá continuidad en años posteriores  se convertirá en una obra básica en el desarrollo estadístico  algunos años más tarde  de las matrices de sustitución PAM  y será precursor de las actuales bases de datos de proteínas25 
+En el área de la tecnología de computadores  se presentan en el ARPA  Advanced Research_Projects_Agency  agencia de proyectos de investigación avanzados  los protocolos de conmutación de paquetes de datos sobre redes de ordenadores  1968   que permitirán enlazar poco después varios ordenadores de diferentes universidades en EEUU26 había nacido ARPANET  1969   embrión de lo que posteriormente será Internet  
+En 1970 se publica el algoritmo Needleman-Wunsch para alineamiento de secuencias  27 se establece el Brookhaven_Protein_Data_Bank  1971  28 se crea la primera molécula de ADN recombinante  Paul_Berg  1972  29 E_M_Southern desarrolla la técnica Southern blot de localización de secuencias específicas de ADN  1976  30 comienza la secuenciación de ADN y el desarrollo de software para analizarlo  F_Sanger  software de R_Staden  1977  31 32 y se publica en 1978 la primera secuencia de genes completa de un organismo  el fago F-X174  5386 pares de bases que codifican 9 proteínas  33 
+En ámbitos tecnológicos vinculados  en estos años se asiste al nacimiento del correo electrónico  Ray Tomlinson  BBN  1971  34 al desarrollo de Ethernet  protocolo de comunicaciones que facilitará la interconexión de ordenadores  principalmente en redes de ámbito local  por Robert_Metcalfe  1973  35 y al desarrollo del protocolo TCP  Transmission Control_Protocol  protocolo de control de transmisión  por Vinton_Cerf y Robert_Kahn  1974   uno de los protocolos básicos para Internet36 
+Años 80 
+En la década de los 80 se asiste  en diversas áreas  a importantes avances  Niveles de estructura de las proteínas  
+En los primeros ochenta se publica cómo investigar la estructura terciaria mediante RMN  en la siguiente década se desarrollarán métodos para predecir de novo algunas estructuras secundarias  
+Científicos  tras la secuenciación del fago F-X174 a finales de la década de los 70  en 1982 F_Sanger consigue la secuenciación del genoma del fago ?  fago lambda  utilizando una nueva técnica  la secuenciación shotgun  secuenciación por perdigonada   desarrollada por él mismo  37 también entre 1981 y 1982 K_Wüthrich publica el método de utilización de la RMN  Resonancia_Magnética_Nuclear  para determinar estructuras de proteínas  38 Ford_Doolittle trabaja con el concepto de secuencia motivo  similitudes supervivientes  según las denomina en el resumen de su artículo  en 1981  39 el descubrimiento en 1983 de la PCR  Polymerase Chain_Reaction  reacción en cadena de la polimerasa  lleva a la multiplicación de muestras de ADN  lo que permitirá su análisis  40 en 1987  D_T_Burke et al  
+describen el uso de cromosomas artificiales de levadura  YAC  Yeast_Artificial_Chromosome  41 y Kulesh et al  
+sientan las bases de los chips de ADN42 
+Bioinformáticos  por lo que se refiere al desarrollo de algoritmos  métodos y programas  aparece el algoritmo Smith-Waterman  1981  43 el algoritmo de búsqueda en bases de datos de secuencias  Wilbur-Lipman  1983  44 FASTP / FASTN  búsqueda rápida de similitudes entre secuencias  1985  45 el algoritmo FASTA para comparación de secuencias  Pearson y Lipman  1988  46 y comienzan a utilizarse modelos ocultos de Márkov para analizar patrones y composición de las secuencias  Churchill  1989  47 lo que permitirá más adelante localizar genes48 y predecir estructuras protéicas  49 aparecen importantes bases de datos biológicas  GenBank en 1982  Swiss-Prot en 1986  50 51 redes que las interconectan  EMBnet en 1988  52 y se potencian o se crean diferentes organismos e instituciones  EMBL se constituye en 1974 pero se desarrolla durante la década de los 80  NCBI en 1988   53 54 también en estos años empieza a estudiarse la viabilidad de la Human_Genome_Initiative  First Santa_Fe_Conference  1985   que será anunciada un año después por el DoE  Department of Energy  departamento de energía del gobierno de los EE  UU   y que pondrá en marcha proyectos piloto para desarrollar recursos y tecnologías críticas  
+en 1987 el NIH  National Institutes_of_Health  institutos nacionales de la salud de EE  UU   comienza aportar fondos a proyectos genoma  mientras que en 1988 arranca la Human_Genome_Initiative  más conocida finalmente como Human_Genome_Project  Proyecto_Genoma_Humano  55 
+Tecnológicos  1983 verá la aparición del estándar Compact_Disc  CD  en su versión para ser leído por un ordenador  Yellow Book   
+Jon_Postel y Paul_Mockapetris desarrollan en 1984 el sistema de nombres de dominio DNS  necesario para un direccionamiento correcto y ágil en Internet  
+en 1987 Larry_Wall desarrolla el lenguaje de programación PERL  de amplio uso posterior en bioinformática  58 y a finales de la década se verán las primeras compañías privadas importantes con actividades vinculadas al genoma  proteínas  bioquímica  etc   Genetics Computer_Group  GCG  Oxford_Molecular_Group  Ltd   y que  en general  experimentarán importantes transformaciones años más tarde59 
+Años 90 
+En los años 90 asistimos a los siguientes eventos  Científicos  en 1991 comienza la secuenciación con EST  Expressed Sequence_Tags  marcaje de secuencias expresadas   
+al año siguiente es publicado el mapa de ligamiento genético  en baja resolución  del genoma humano completo  
+en 1995 se consigue secuenciar completamente los primeros genomas de bacterias  Haemophilus influenzae  Mycoplasma genitalium  de 18 millones de pares de bases - Mbps - y 058_Mbps  respectivamente   
+en 1996  y en diferentes pasos  por cromosoma   se hace lo propio con el primer genoma eucariota  el de la levadura  Saccharomyces cerevisiae  con 12_Mbps  64 así como en 1997 con el genoma de Escherichia coli  47_Mbps  65 en 1998 con el primer genoma de un organismo multicelular  97 Mbp del Caenorhabditis elegans  66 para terminar la década con el primer cromosoma humano  el 22  completamente secuenciado en 1999  334_Mbps  67 
+Bioinformáticos  búsqueda rápida de similitudes entre secuencias con BLAST  1990   
+base de datos de huellas de proteínas PRINTS  de Attwood y Beck  1994   
+ClustalW  orientado al alineamiento múltiple de secuencias  en 199470 y PSI-BLAST en 1997  
+a finales de la década se desarrolla T-Coffee  que se publica en 200072 Por lo que se refiere a actividades institucionales y nuevos organismos  tenemos la presentación por parte del DoE y NIH al Congreso de los EE  UU   en 1990  de un plan de esfuerzos conjuntos en el Human_Genome_Project para cinco años  
+se crean el Sanger_Centre  Hinxton  UK  1993  ahora Sanger_Institute  y el European_Bioinformatics_Institute  EBI  Hinxton  UK  1992-1995  74 
+Tecnológicos  Tim_Berners-Lee inventa la World_Wide_Web  1990  mediante aplicación de protocolos de red que explotan las características del hipertexto  
+en 1991 aparecen los protocolos definitivos de Internet  CERN  77 y la primera versión del sistema operativo Linux78 muy utilizado posteriormente en aplicaciones científicas  
+en 1998 Craig_Venter funda Celera  compañía que perfeccionará la secuenciación por perdigonada de F_Sanger y analizará los resultados con software propio79 
+Primeros años del siglo XXI 
+A destacar que en los años 2000 están culminando múltiples proyectos de secuenciación de genomas de diferentes organismos  en 2000 se publican  entre otros  el genoma de Arabidopsis thaliana  100 Mb  80 y el de Drosophila melanogaster  180 Mbp  81 
+Tras un borrador operativo de la secuencia de ADN del genoma humano del año 200082 en 2001 aparece publicado el genoma humano  3 Gbp  83 
+Poco después  en 2003  y con dos años de adelanto sobre lo previsto  se completa el Human_Genome Project84 
+Por mencionar algunos de los genomas analizados en los años siguientes  anotaremos que en 2004 aparece el borrador del genoma de Rattus norvegicus  rata  85 en 2005 el del chimpancé86 en 2006 el del macaco rhesus87 en 2007 el del gato doméstico88 y en 2008 se secuencia por primera vez el genoma de una mujer89 
+Gracias al desarrollo de las técnicas adecuadas  asistimos actualmente a un aluvión de secuenciaciones de genomas de todo tipo de organismos  
+En 2003 se funda en España el Instituto_Nacional de Bioinformática90 soportado por la Fundación_Genoma_España  fundada  a su vez  un año antes y que pretende constituirse en instrumento del estado para potenciar la investigación en este campo  91 
+En 2004  la estadounidense FDA  Food and Drug_Administration  agencia para la administración de alimentos y fármacos  autoriza el uso de un chip de ADN por primera vez92 
+En 2005 se completa el proyecto HapMap  catalogación de variaciones genéticas en el ser humano  93 
+En 2008 UniProt presenta el primer borrador del proteoma completo del ser humano  con más de veinte mil entradas94 
+Poco a poco  los primeros programas bioinformáticos se van perfeccionando  y vemos versiones más completas como la 20 de ClustalW  reescrito en C++ en 2007  95 
+Principales áreas de investigación 
+Análisis de secuencias 
+Desde que el fago F-X174 fue secuenciado en 1977  secuencia provisional  un año más tarde se publicaría la secuencia completa definitiva  33 las secuencias de ADN de cientos de organismos han sido decodificadas y guardadas en bases de datos  
+Esos datos son analizados para determinar los genes que codifican para ciertas proteínas  así como también secuencias reguladoras  
+Una comparación de genes en una especie o entre especies puede mostrar similitudes entre funciones de proteínas  o relaciones entre especies  uso de filogenética molecular para construir árboles filogenéticos  96 
+Con la creciente cantidad de datos  desde hace mucho se ha vuelto poco práctico analizar secuencias de ADN manualmente  
+Hoy se usan programas de computadora para estudiar el genoma de miles de organismos  conteniendo miles de millones de nucleótidos  
+Estos programas pueden compensar mutaciones  con bases intercambiadas  borradas o insertadas  en la secuencia de ADN  para identificar secuencias que están relacionadas  pero que no son idénticas39 
+Una variante de este alineamiento de secuencias se usa en el proceso de secuenciación  
+no da una lista secuencial de nucleótidos  pero en cambio nos ofrece las secuencias de miles de pequeños fragmentos de ADN  cada uno de aproximadamente 600 a 800 nucleótidos de largo   
+Las terminaciones de estos fragmentos se superponen y  cuando son alineados de la manera correcta  constituyen el genoma completo del organismo en cuestión97 
+El secuenciamiento shotgun proporciona datos de secuencia rápidamente  pero la tarea de ensamblar los fragmentos puede ser bastante complicada para genomas muy grandes  
+En el caso del Proyecto_Genoma_Humano  llevó varios meses de tiempo de procesador  en una estación DEC_Alpha de alrededor del 2000  para ensamblar los fragmentos  
+Otro aspecto de la bioinformática en análisis de secuencias es la búsqueda automática de genes y secuencias reguladoras dentro de un genoma98 
+No todos los nucleótidos dentro de un genoma son genes  
+Dentro del genoma de organismos más avanzados  grandes partes del ADN no sirven a ningún propósito obvio  
+Este_ADN  conocido como  ADN basura   puede  sin embargo  contener elementos funcionales todavía no reconocidos99 
+Mapa del cromosoma X del ser humano  extraído de la página web del NCBI   
+Anotación de genomas 
+El primer sistema software de anotación de genomas fue diseñado en 1995 por Owen_White  quien fue miembro del equipo que secuenció y analizó el primer genoma en ser descodificado de un organismo independiente  la bacteria Haemophilus influenzae  
+White construyó un software para localizar los genes  lugares en la secuencia de DNA que codifican una proteína   el ARN de transferencia  y otras características  así como para realizar las primeras atribuciones de función a esos genes62 
+La mayoría de los actuales sistemas de anotación genómica trabajan de forma similar  pero los programas disponibles para el análisis del genoma se encuentran en continuo cambio y mejora  
+Biología evolutiva computacional 
+La informática ha apoyado a los biólogos evolutivos en diferentes campos clave  
+Ha permitido a los investigadores  Seguir la evolución de un alto número de organismos midiendo cambios en su ADN  en lugar de hacerlo exclusivamente mediante su taxonomía física u observaciones fisiológicas39 Más recientemente  comparar genomas completos  lo que permite el estudio de eventos evolutivos más complejos  tales como la duplicación de genes  la transferencia horizontal de genes  o la predicción de factores significativos en la especiación bacteriana102 Construir modelos computacionales complejos de poblaciones para predecir el resultado del sistema a través del tiempo103 Seguir y compartir información sobre un amplio y creciente número de especies y organismos  
+Los esfuerzos futuros se centrarán en reconstruir el cada vez más complejo árbol filogenético de la vida104 
+El área de investigación de las ciencias de la computación denominada computación evolutiva se confunde ocasionalmente con la Biología evolutiva computacional  pero ambas áreas no guardan relación  
+Dicho campo se centra en el desarrollo de algoritmos genéticos y otras estrategias de resolución de problemas con una marcada inspiración evolutiva y genética  
+Medición de la biodiversidad 
+Se usa software especializado para encontrar  visualizar y analizar la información  y  lo que es más importante  para compartirla con otros interesados106 
+La simulación computacional puede modelar cosas tales como dinámica poblacional  o calcular la mejora del acervo genético de una variedad  en agricultura   o la población amenazada  en biología de la conservación   
+Un potencial muy excitante en este campo es la posibilidad de preservar las secuencias completas del ADN  o genomas  de especies amenazadas de extinción  permitiendo registrar los resultados de la experimentación genética de la Naturaleza in silico para su posible reutilización futura  aún si tales especies fueran finalmente perdidas107 
+Pueden citarse  como ejemplos significativos  los proyectos Species 2000 o uBio  
+Análisis de la expresión génica 
+La expresión génica de muchos genes puede determinarse por la medición de niveles de mRNA mediante múltiples técnicas  incluyendo microarrays de ADN  secuenciación de EST  Expressed Sequence_Tag   análisis en serie de la expresión génica  Serial Analysis_of_Gene_Expression - SAGE   MPSS  Massively Parallel_Signature_Sequencing   o diversas aplicaciones de hibridación in situ  
+Todas estas técnicas son extremadamente propensas al ruido y / o sujetas a sesgos en la medición biológica  y una de las principales áreas de investigación en la biología computacional trata del desarrollo de herramientas estadísticas para separar la señal del ruido en los estudios de expresión génica con alto volumen de procesamiento108 
+Estos estudios se usan a menudo para determinar los genes implicados en un desorden  podrían  por ejemplo  compararse datos de microarrays de células epiteliales cancerosas con datos de células no cancerosas para determinar las transcripciones que son activadas o reprimidas en una población particular de células cancerosas109 
+Análisis de la regulación 
+Se han aplicado técnicas bioinformáticas para explorar varios pasos en este proceso  
+Por ejemplo  el análisis del promotor de un gen implica la identificación y estudio de las secuencias motivo en los alrededores del ADN de la región codificante de un gen111 
+Estos motivos influyen en el alcance según el cual esa región se transcribe en ARNm  
+Los datos de expresión pueden usarse para inferir la regulación génica  podrían compararse datos de microarrays provenientes de una amplia variedad de estados de un organismo para formular hipótesis sobre los genes involucrados en cada estado  
+En un organismo unicelular  podrían compararse etapas del ciclo celular a lo largo de variadas condiciones de estrés  choque de calor  inanición  etc    
+Podrían aplicarse  entonces  algoritmos de agrupamiento  algoritmos de clustering  o análisis de cluster  a esa información de expresión para determinar qué genes son expresados simultáneamente112 
+Por ejemplo  los promotores de estos genes se pueden buscar según la abundancia de secuencias o elementos regulatorios  
+Análisis de la expresión de proteínas 
+Los microarrays de proteínas y la espectrometría de masas de alto rendimiento pueden proporcionar una instantánea de las proteínas presentes en una muestra biológica  
+La bioinformática está muy comprometida en dar soporte a ambos procedimientos  
+La aproximación a los microarrays de proteínas encara similares problemas a los existentes para microarrays destinados a ARNm113 mientras que para la espectrometría de masas el problema es casar grandes cantidades de datos de masa contra masas predichas por bases de datos de secuencias de proteínas  además del complicado análisis estadístico de muestras donde se detectan múltiples  pero incompletos  péptidos de cada proteína114 
+Análisis de mutaciones en el cáncer 
+En el cáncer  los genomas de las células afectadas son reordenados en complejas y / o aún impredecibles maneras  
+Se realizan esfuerzos masivos de secuenciación para identificar sustituciones individuales de bases  o puntos de mutación de nucleótidos  todavía desconocidos en una variedad de genes en el cáncer115 
+Los bioinformáticos continúan produciendo sistemas automatizados para gestionar el importante volumen de datos de secuencias obtenido  y crean nuevos algoritmos y software para comparar los resultados de secuenciación con la creciente colección de secuencias del genoma humano y de los polimorfismos de la línea germinal  
+Se están utilizando nuevas tecnologías de detección física  como los microarrays de oligonucleótidos para identificar pérdidas y ganancias cromosómicas  técnica denominada hibridación genómica comparativa  116 y los arrays de polimorfismos de nucleótido simple para detectar puntos de mutación conocidos117 
+Estos métodos de detección miden simultáneamente bastantes cientos de miles de posiciones a lo largo del genoma  y cuando se usan con una alta productividad para analizar miles de muestras  generan terabytes de datos por experimento  
+De esta forma las masivas cantidades y nuevos tipos de datos proporcionan nuevas oportunidades para los bioinformáticos  
+A menudo se encuentra en los datos una considerable variabilidad  o ruido  por lo que métodos como el de los modelos ocultos de Márkov y el análisis de puntos de cambio están siendo desarrollados para inferir cambios reales en el número de copias de los genes  número de copias de un gen particular en el genotipo de un individuo  cuya magnitud puede ser elevada en células cancerígenas  118 
+Otro tipo de datos que requiere novedosos desarrollos informáticos es el análisis de las lesiones encontradas de forma recurrente en buen número de tumores  principalmente por análisis automatizado de imagen clínica  
+Predicción de la estructura de las proteínas 
+Alineamiento estructural de tiorredoxinas del ser humano y de la mosca Drosophila melanogaster  
+Las proteínas se muestran como cintas  con la proteína humana en rojo y la de la mosca en amarillo  
+Generado con PDB 3TRX y 1XWC  
+La predicción de la estructura de las proteínas es otra importante aplicación de la bioinformática  
+La secuencia de aminoácidos de una proteína  también llamada estructura primaria  puede ser determinada fácilmente desde la secuencia de nucleótidos sobre el gen que la codifica120 
+En la inmensa mayoría de los casos  esta estructura primaria determina únicamente una estructura de la proteína en su ambiente nativo  
+ Hay  por supuesto  excepciones  como la encefalopatía espongiforme bovina  o  mal de las vacas locas   ver  también  prion   
+El conocimiento de esta estructura es vital para entender la función de la proteína121 
+En ausencia de mejores términos  la información estructural de las proteínas se clasifica usualmente como estructura secundaria  terciaria y cuaternaria  
+Una solución general viable para la predicción de tales estructuras permanece todavía como problema abierto  
+Por ahora  la mayoría de los esfuerzos han sido dirigidos hacia heurísticas que funcionan la mayoría de las veces122 
+Una de las ideas clave en bioinformática es la noción de homología  
+Esta es  actualmente  la única vía para predecir estructuras de proteínas de una manera fiable  
+Un ejemplo de lo anterior es la similar homología proteica entre la hemoglobina en humanos y la hemoglobina en las legumbres  leghemoglobina   
+Aunque las dos tienen una secuencia de aminoácidos completamente diferente  sus estructuras son virtualmente idénticas  lo que refleja sus prácticamente idénticos propósitos125 
+Otras técnicas para predecir la estructura de las proteínas incluyen el enhebrado de proteínas  protein threading  126 y el modelado de novo  desde cero   basado en las características físicas y químicas127 
+Al respecto  pueden verse también motivo estructural  structural motif  y dominio estructural  structural domain   
+Genómica comparativa 
+Una multitud de eventos evolutivos actuando a diferentes niveles organizativos conforman la evolución del genoma128 
+Al nivel más bajo  las mutaciones puntuales afectan a nucleótidos individuales  
+Al mayor nivel  amplios segmentos cromosómicos experimentan duplicación  transferencia horizontal  inversión  transposición  borrado e inserción  
+Finalmente  los genomas enteros están involucrados en procesos de hibridación  poliploidía y endosimbiosis  conduciendo a menudo a una súbita especiación  
+La complejidad de la evolución del genoma plantea muchos desafíos excitantes a desarrolladores de modelos matemáticos y algoritmos  quienes deben recurrir a un espectro de técnicas algorítmicas  estadísticas y matemáticas que se extienden desde exactas  heurísticas  con parámetros fijados  y mediante algoritmos de aproximación para problemas basados en modelos de parsimonia  hasta algoritmos  Márkov_Chain_Monte_Carlo  para análisis Bayesiano de problemas basados en modelos probabilísticos129 
+Muchos de estos estudios están basados en la detección de homología y la computación de familias de proteínas  
+Modelado de sistemas biológicos 
+La biología de sistemas implica el uso de simulaciones por ordenador de subsistemas celulares  tales como redes de metabolitos y enzimas que comprenden el metabolismo  caminos de transducción de señales  y redes de regulación genética   tanto para analizar como para visualizar las complejas conexiones de estos procesos celulares130 
+La vida artificial o la evolución virtual tratan de entender los procesos evolutivos por medio de la simulación por ordenador de sencillas formas de vida  artificial  131 
+Análisis de imagen de alto rendimiento 
+Se están usando tecnologías de computación para acelerar o automatizar completamente el procesamiento  cuantificación y análisis de grandes cantidades de imágenes biomédicas con alto contenido en información  
+Los modernos sistemas de análisis de imagen incrementan la habilidad del observador para realizar análisis sobre un amplio o complejo conjunto de imágenes  mejorando la precisión  la objetividad  independencia de los resultados según el observador   o la rapidez  
+Un sistema de análisis totalmente desarrollado podría reemplazar completamente al observador  
+Aunque estos sistemas no son exclusivos del campo de las imágenes biomédicas  cada vez son más importantes tanto para el diagnóstico como para la investigación  
+Algunos ejemplos  
+Cuantificación y localización subcelular con alta productividad y precisión  high-content screening  citohistopatología  132 
+Morfometría133 
+Análisis y visualización de imágenes clínicas134 
+Determinación de patrones en el flujo del aire en tiempo real de la respiración pulmonar de animales vivos  
+Cuantificación del tamaño de la oclusión a través de imágenes en tiempo real  tanto por desarrollo como por recuperación  de lesiones arteriales135 
+Realización de observaciones conductuales basadas en prolongadas grabaciones en vídeo de animales de laboratorio  
+Observaciones en infrarrojo  espectroscopia infrarroja  para la determinación de la actividad metabólica136 
+Acoplamiento proteína-proteína 
+En las últimas dos décadas  decenas de miles de estructuras tridimensionales de proteínas han sido determinadas por cristalografía de rayos X y espectroscopia mediante resonancia magnética nuclear de proteínas  RMN de proteínas   
+Una cuestión central para los científicos es si resulta viable la predicción de posibles interacciones proteína-proteína solamente basados en esas formas 3D  sin realizar experimentos identificativos de estas interacciones  
+Se han desarrollado una variedad de métodos para enfrentarse al problema del acoplamiento proteína-proteína  aunque parece que queda todavía mucho trabajo en este campo137 
+Herramientas de software 
+Las herramientas de software para bioinformática van desde simples herramientas de línea de comandos hasta mucho más complejos programas gráficos y servicios web autónomos situados en compañías de bioinformática o instituciones públicas  
+El NCBI  National Center_for_Biotechnology_Information  EE  UU    por ejemplo  proporciona una implementación muy utilizada  basada en web  y que trabaja sobre sus bases de datos138 
+Para alineamientos múltiples de secuencias  el clásico ClustalW70 actualmente en su versión 2  es el software de referencia  
+Puede trabajarse con una implementación del mismo en el EBI  Instituto_Europeo de Bioinformática  139 BLAST y ClustalW son sólo dos ejemplos de los muchos programas de alineamiento de secuencias disponibles  
+Existe  por otra parte  multitud de software bioinformático con otros objetivos  alineamiento estructural de proteínas  predicción de genes y otros motivos  predicción de estructura de proteínas  predicción de acoplamiento proteína-proteína  o modelado de sistemas biológicos  entre otros  
+En_Anexo  Software para alineamiento de secuencias y Anexo  Software para alineamiento estructural pueden encontrarse sendas relaciones de programas o servicios web adecuados para cada uno de estos dos objetivos en particular  
+Servicios web en bioinformática 
+Se han desarrollado interfaces basadas en SOAP y en REST  Representational State_Transfer  transferencia de estado representacional  para una amplia variedad de aplicaciones bioinformáticas  permitiendo que una aplicación  corriendo en un ordenador de cualquier parte del mundo  pueda usar algoritmos  datos y recursos de computación alojados en servidores en cualesquiera otras partes del planeta  
+Las principales ventajas radican en que el usuario final se despreocupa de actualizaciones y modificaciones en el software o en las bases de datos140 
+Los servicios bioinformáticos básicos  de acuerdo a la clasificación implícita del EBI  pueden clasificarse en141 
+Servicios de obtención de información en línea  consultas a bases de datos  por ejemplo   
+Herramientas de análisis  por ejemplo  servicios que den acceso a EMBOSS   
+Búsquedas de similitudes entre secuencias  servicios de acceso a FASTA o BLAST  por ejemplo   
+Alineamientos múltiples de secuencias  acceso a ClustalW o T-Coffee   
+Análisis estructural  acceso a servicios de alineamiento estructural de proteínas  por ejemplo   
+Servicios de acceso a literatura especializada y ontologías  
+La disponibilidad de estos servicios web basados en SOAP a través de sistemas tales como los servicios de registro142  servicios de distribución y descubrimiento de datos a través de servicios web  demuestra la aplicabilidad de soluciones bioinformáticas basadas en web  
+Estas herramientas varían desde una colección de herramientas autónomas con un formato de datos común  y bajo una única interface autónoma o basada en web  hasta sistemas integradores y extensibles para la gestión del flujo de trabajo bioinformático 

@@ -1,0 +1,6 @@
+the king loves the queen
+the queen loves the king
+the dwarf hates the king
+the queen hates the dwarf
+the dwarf poisons the king
+the dwarf poisons the queen

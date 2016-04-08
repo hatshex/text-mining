@@ -1,8 +1,0 @@
-Artículos interesantes
-
-http://es.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
-http://nlpx.net/archives/330
-https://datawarrior.wordpress.com/2016/02/15/lda2vec-a-hybrid-of-lda-and-word2vec/
-http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/
-http://insightdatascience.com/blog/thisplusthat_a_search_engine_that_lets_you_add_words_as_vectors.html
-https://www.cs.bgu.ac.il/~elhadad/nlp16.html

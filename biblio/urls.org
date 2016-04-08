@@ -7,6 +7,6 @@ http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vect
 http://insightdatascience.com/blog/thisplusthat_a_search_engine_that_lets_you_add_words_as_vectors.html
 https://www.cs.bgu.ac.il/~elhadad/nlp16.html
 http://rare-technologies.com/word2vec-tutorial/
-
+http://mghassem.mit.edu/insights-word2vec/
 
 https://www.youtube.com/watch?v=T8tQZChniMk

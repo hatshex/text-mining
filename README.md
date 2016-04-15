@@ -16,7 +16,7 @@
 Bibliografía
 * Foundations of Statistical Natural Language Processing. Christopher Manning and Hinrich Schuetze.
 * Natural Language Processing and Text Mining. Anne Kao and Stephen R. Poteet
-https://sites.google.com/site/victormijangoscruz/cursos/metodos-analiticos-para-texto
+* https://sites.google.com/site/victormijangoscruz/cursos/metodos-analiticos-para-texto
 
 Artículos interesantes
 * http://es.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
@@ -28,6 +28,5 @@ Artículos interesantes
 * http://rare-technologies.com/word2vec-tutorial/
 * http://mghassem.mit.edu/insights-word2vec/
 * https://www.youtube.com/watch?v=tdLmf8t4oqM
-
 * https://www.youtube.com/watch?v=T8tQZChniMk
 * https://www.youtube.com/watch?v=S75EdAcXHKk&nohtml5=False

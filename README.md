@@ -30,3 +30,5 @@ Artículos interesantes
 * https://www.youtube.com/watch?v=tdLmf8t4oqM
 * https://www.youtube.com/watch?v=T8tQZChniMk
 * https://www.youtube.com/watch?v=S75EdAcXHKk&nohtml5=False
+
+* Welcome to the 6th Lisbon Machine Learning School! http://lxmls.it.pt/2016/

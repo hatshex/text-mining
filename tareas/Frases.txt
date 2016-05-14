@@ -1,0 +1,56 @@
+Agua que no has de beber, déjala correr.	Agua
+Nunca digas “de esta agua no beberé”.	Agua
+Barriga llena, corazón contento.	Comida
+El león cree que todos son de su condición.	Animales
+Al que madruga Dios le ayuda.	Dios
+Más vale malo por conocido que bueno por conocer.	Relaciones sociales
+Ojos que no ven, corazón que no siente.	Partes del cuerpo
+No todo lo que brilla es oro.	Objetos
+Cada oveja con su pareja.	Animales
+De tal palo, tal astilla.	Objetos
+Más vale paso que dure que trote que canse.	Ejercicio
+Muerto el perro se acabó la rabia.	Animales
+Quien ríe al último ríe mejor.	Personas
+Hablando del rey de Roma, por la puerta asoma.	Relaciones sociales
+Cuando el río suena es porque agua lleva.	Agua
+Preguntando se llega a Roma.	Viajes
+No hay peor sordo que el que no quiere oír.	Personas
+La suerte de la fea la bonita la desea.	Relaciones sociales
+Al mal tiempo buena cara.	Clima
+El tiempo todo lo cura.	Tiempo
+FRASE	CLASE
+Después de la tormenta viene la calma.	Clima
+A la mejor cocinera, se le queman los frijoles.	Comida
+El que con lobos anda, a aullar se enseña.	Animales
+¡A darle, que es mole de olla!	Comida
+A fuerzas ni los zapatos entran.	Objetos
+Dando y dando, pajarito volando.	Animales
+El muerto y el arrimado a los tres días apestan.	Relaciones sociales
+¡Qué suerte tienen los que no se bañan!	Causa y consecuencia
+Nadie sabe para quién trabaja.	Trabajo
+Las cosas caen por su propio peso.	Objetos
+NO FAMILIARES	NO FAMILIARES
+Cada quien cuenta como le va en la feria.	Diversión y ocio
+El que es vencido hoy será vencedor mañana.	Problemas y soluciones
+Un acomedido hasta en la cárcel cabe.	Personas
+Amor viejo, ni te olvido ni te dejo.	Amor y amistad
+El que padece de amor, hasta con las piedras habla.	Amor y amistad
+Cuando el arriero es malo le echa la culpa a los burros.	Personas
+Por un borrego no se juzga la manada.	Animales
+Cada quien se pone la corona que se labra.	Objetos
+Dime qué comes, y te diré cuánto tienes.	Comida
+El que tenga sus gallinas, que las cuide del coyote.	Animales
+No le hace que nazcan chatos, con tal que respiren bien.	Personas
+El hombre que sabe, pronto sobresale.	Personas
+Hombre casado, hombre acabado.	Personas
+El que mete mano en bolsa ajena, muy pronto hallará la pena.	Causa y consecuencia
+Salir a mano es ganancia.	Partes del cuerpo
+A animal que no conozcas, no le tientes las orejas.	Animales
+Despacito y con buena letra.	Lectura y escritura
+El que nace barrigón, aunque lo fajen.	Partes del cuerpo
+Llegando y haciendo lumbre.	Naturaleza
+Más vale una hora tarde que un minuto de silencio.	Tiempo
+La conquista de sí mismo es la mayor de las victorias.	Personas
+A buena hambre, no hay pan duro.	Comida
+El que es buen juez, por su casa empieza.	Personas
+A cada edad, lo suyo.	Tiempo
